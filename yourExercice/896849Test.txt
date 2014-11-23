@@ -11,7 +11,7 @@ Industry refers to the sellers that offer their products and Sector refers to pe
 
 
 :four: Describe the advantages of the Business Model Canvas? Are there any alternative?
-The Business Model Canvas provides an overview of the business. It is a simple, intuitive and flexible tool easy to refresh or being modified, all this in a simple page view. 
+The Business Model Canvas provides an overview of the business. It is a simple, intuitive and flexible tool easy to refresh or being modified, all this in a simple page view. It can be used as a reference to have an overview of a project for an extern agent. There are other alternatives, but BMC has good enough results. 
 
 
 :five: What does Customer Research mean? And Market size?
