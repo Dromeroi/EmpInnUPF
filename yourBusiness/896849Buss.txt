@@ -1,0 +1,29 @@
+:one: What does the start-up do?
+We sell a system composed by a bracelet and an app that allows the parents to have fully control about their kids status and location.
+
+:two: What is unique about the start-up? Or in other words, what gives your company a competitive advantage?
+It’s something completely new in the market, but we have a secured buying sector that is willing for a product like this. Our product also mix different utilities in a single device.
+
+:three: What big problem does it solve?
+The inability of keep track of your children when they aren’t around.
+
+:four: How big can the start-up get?	
+It is relative but it can get big if we are able to make it something indispensable for every family. It depends on the product acceptation, we don’t see why to put limits. 
+
+:five: What is the actual addressable market?
+All the parents worried about their little children safety.
+
+:six: Why would someone be "compelled" to purchase your product or service?
+They will be able to secure their children safety, something that will reassure them
+
+:seven: Can you describe your MVP?
+A preview of our mobile application that shows which kind of data are you going to be able to see about your child. We will make also a bracelet non -operative prototype to show how it will look like. 
+
+:eight: How do you plan to acquire customers?
+We will do a website where you can directly buy the product. We pretend to speak with the responsible from different kinder gardens to give them the option to use the product in their centres, something that will also arise the product popularity.  
+
+:nine: Who is the end user? (Customer Profile)
+All the cautious parents.
+
+:keycap_ten: Can you explain the Customer Research done with your start-up?
+We did a google form and we sent it to 80 people (40 mothers and 40 fathers with less than 3 years old child).  Looking at the results we can determine who is really willing to be our product, our potential client. 
